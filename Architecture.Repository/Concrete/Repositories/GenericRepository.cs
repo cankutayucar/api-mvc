@@ -20,7 +20,7 @@ namespace Architecture.Repository.Concrete.Repositories
             return await _dbSet.FindAsync(id);
         }
 
-        public IQueryable<T> GetAll(Expression<Func<T, bool>> expression)
+        public IQueryable<T> GetAll()
         {
             return _dbSet.AsNoTracking().AsQueryable();
         }
