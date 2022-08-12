@@ -13,3 +13,5 @@ C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\refint\Architecture.Repository.dll
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.pdb
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\ref\Architecture.Repository.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\bin\Debug\net6.0\Architecture.Repository.runtimeconfig.json
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.genruntimeconfig.cache
