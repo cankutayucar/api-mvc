@@ -1,9 +1,12 @@
 using System.Reflection;
 using Architecture.Core.Abstract.Repositories;
+using Architecture.Core.Abstract.Services;
 using Architecture.Core.Abstract.UnitOfWork;
 using Architecture.Repository;
 using Architecture.Repository.Concrete.Repositories;
 using Architecture.Repository.Concrete.UnitOfWork;
+using Architecture.Service.Abstract.Services;
+using Architecture.Service.Mapper;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,7 +30,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddAutoMapper(Assembly.GetAssembly(typeof(MapProfile)));
 
 var app = builder.Build();
 
