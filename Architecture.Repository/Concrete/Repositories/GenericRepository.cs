@@ -1,16 +1,10 @@
 ﻿using Architecture.Core.Abstract.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
+using System.Linq.Expressions;
 
 namespace Architecture.Repository.Concrete.Repositories
 {
-    internal class GenericRepository<T> : IGenericRepository<T>
+    public class GenericRepository<T> : IGenericRepository<T>
     where T : class
     {
         protected readonly AppDbContext _context;
