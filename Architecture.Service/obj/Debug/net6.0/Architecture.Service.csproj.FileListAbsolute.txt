@@ -1,0 +1,17 @@
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Service.deps.json
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Service.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Service.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Core.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Repository.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Repository.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\bin\Debug\net6.0\Architecture.Core.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.csproj.CopyComplete
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\refint\Architecture.Service.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\Architecture.Service.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Service\obj\Debug\net6.0\ref\Architecture.Service.dll

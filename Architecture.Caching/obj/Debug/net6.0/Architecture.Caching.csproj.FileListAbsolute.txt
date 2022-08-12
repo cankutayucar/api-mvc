@@ -1,0 +1,12 @@
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Caching.deps.json
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Caching.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Caching.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\refint\Architecture.Caching.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\ref\Architecture.Caching.dll

@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Architecture.Web/1.0.0": {
+        "dependencies": {
+          "Architecture.Service": "1.0.0"
+        },
+        "runtime": {
+          "Architecture.Web.dll": {}
+        }
+      },
+      "Architecture.Core/1.0.0": {
+        "runtime": {
+          "Architecture.Core.dll": {}
+        }
+      },
+      "Architecture.Repository/1.0.0": {
+        "dependencies": {
+          "Architecture.Core": "1.0.0"
+        },
+        "runtime": {
+          "Architecture.Repository.dll": {}
+        }
+      },
+      "Architecture.Service/1.0.0": {
+        "dependencies": {
+          "Architecture.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Architecture.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Architecture.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Architecture.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Architecture.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Architecture.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

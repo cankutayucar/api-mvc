@@ -1,0 +1,15 @@
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\bin\Debug\net6.0\Architecture.Repository.deps.json
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\bin\Debug\net6.0\Architecture.Repository.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\bin\Debug\net6.0\Architecture.Repository.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\bin\Debug\net6.0\Architecture.Core.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\bin\Debug\net6.0\Architecture.Core.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.csproj.CopyComplete
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\refint\Architecture.Repository.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\Architecture.Repository.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Repository\obj\Debug\net6.0\ref\Architecture.Repository.dll
