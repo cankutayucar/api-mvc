@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "oZSiuLkgbZGO+bXB+TZ0R1pvcWtnH6bA4+KeZvnXCB+KgaeEVqDdLwxWYKec3MWjHmz7ilNt9am3e1SDHSl8iQ==",
+  "dgSpecHash": "8+N4gsBliqVmmVRgty5AzVyOqjlvjUSd4pYiv4YHH6/g0eNPG7dPVGVBxyJFz3mHhbXBW1ZLWIYZJ4McUwDYcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cankutay\\Desktop\\api-mvcProject\\ArchitectureApp\\Architecture.API\\Architecture.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cankutay\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Cankutay\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
+    "C:\\Users\\Cankutay\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.1\\fluentvalidation.aspnetcore.11.2.1.nupkg.sha512",
+    "C:\\Users\\Cankutay\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.0\\fluentvalidation.dependencyinjectionextensions.11.2.0.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

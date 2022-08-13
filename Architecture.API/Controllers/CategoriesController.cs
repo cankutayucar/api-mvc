@@ -1,9 +1,11 @@
-﻿using Architecture.Core.Abstract.Services;
+﻿using Architecture.API.Filters;
+using Architecture.Core.Abstract.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Architecture.API.Controllers
 {
+    [ValidateFilter]
     public class CategoriesController : CustomBaseController
     {
         private readonly ICategoryService _categoryService;

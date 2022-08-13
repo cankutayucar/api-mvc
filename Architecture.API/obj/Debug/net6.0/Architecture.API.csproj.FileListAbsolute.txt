@@ -67,3 +67,6 @@ C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\De
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
