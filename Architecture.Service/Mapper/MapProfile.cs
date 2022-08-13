@@ -18,6 +18,7 @@ namespace Architecture.Service.Mapper
             CreateMap<ProductFeature, ProductFeatureDto>().ReverseMap();
             CreateMap<ProductUpdateDto, Product>();
             CreateMap<Product, ProductWithCategoryDto>();
+            CreateMap<Category, CategoryByIdWithProductsDto>();
         }
     }
 }

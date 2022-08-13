@@ -7,25 +7,21 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Architecture.API.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
     public class ProductsController : CustomBaseController
     {
         private readonly IMapper _mapper;
-        private readonly IService<Product> _service;
-        private readonly IProductService _productService;
+        private readonly IProductService _service;
 
-        public ProductsController(IMapper mapper, IService<Product> service, IProductService productService)
+        public ProductsController(IMapper mapper, IProductService productService)
         {
             _mapper = mapper;
-            _service = service;
-            _productService = productService;
+            _service = productService;
         }
 
         [HttpGet("[action]")]
         public async Task<IActionResult> GetProductsWithCategory()
         {
-            return base.CreaateActionResult(await _productService.GetProductsWithCategory());
+            return base.CreaateActionResult(await _service.GetProductsWithCategory());
         }
 
         [HttpGet]
@@ -53,8 +49,8 @@ namespace Architecture.API.Controllers
         [HttpPut]
         public async Task<IActionResult> Update(ProductUpdateDto updateDto)
         {
-           await _service.UpdateAsync(_mapper.Map<Product>(updateDto));
-           return CreaateActionResult(CustomResponseDto<NoContentDto>.Success(204));
+            await _service.UpdateAsync(_mapper.Map<Product>(updateDto));
+            return CreaateActionResult(CustomResponseDto<NoContentDto>.Success(204));
         }
 
         [HttpDelete("{id}")]
