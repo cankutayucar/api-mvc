@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Architecture.Core.Abstract.Repositories;
 using Architecture.Core.Abstract.UnitOfWork;
+using Architecture.Service.Exceptions;
 using Microsoft.EntityFrameworkCore;
 
 namespace Architecture.Service.Abstract.Services
@@ -24,7 +25,12 @@ namespace Architecture.Service.Abstract.Services
 
         public async Task<T> GetByIdAsync(int id)
         {
-            return await _repository.GetByIdAsync(id);
+            var hasProduct = await _repository.GetByIdAsync(id);
+            if (hasProduct == null)
+            {
+                throw new NotFoundException($"{typeof(T).Name} Not Found");
+            }
+            return hasProduct;
         }
 
         public async Task<IEnumerable<T>> GetAllAsync()

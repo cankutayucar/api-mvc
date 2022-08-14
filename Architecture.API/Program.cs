@@ -1,5 +1,6 @@
 using System.Reflection;
 using Architecture.API.Filters;
+using Architecture.API.Middlewares;
 using Architecture.Core.Abstract.Repositories;
 using Architecture.Core.Abstract.Services;
 using Architecture.Core.Abstract.UnitOfWork;
@@ -59,6 +60,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCustomException();
 
 app.UseAuthorization();
 
