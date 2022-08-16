@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8+N4gsBliqVmmVRgty5AzVyOqjlvjUSd4pYiv4YHH6/g0eNPG7dPVGVBxyJFz3mHhbXBW1ZLWIYZJ4McUwDYcw==",
+  "dgSpecHash": "jcSecNN2M9O2vsQCOxxif4RazzaDP2kOvzbOPrNsV1Mo8ysFHMGqBU7C1FmXUE8gn7c8/xIc2flOSlfpLds89A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cankutay\\Desktop\\api-mvcProject\\ArchitectureApp\\Architecture.API\\Architecture.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Cankutay\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Cankutay\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Cankutay\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",

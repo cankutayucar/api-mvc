@@ -1,11 +1,11 @@
 ﻿using Architecture.API.Filters;
 using Architecture.Core.Abstract.Services;
+using Architecture.Core.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Architecture.API.Controllers
 {
-    [ValidateFilter]
     public class CategoriesController : CustomBaseController
     {
         private readonly ICategoryService _categoryService;
@@ -15,6 +15,7 @@ namespace Architecture.API.Controllers
             _categoryService = categoryService;
         }
 
+        [ServiceFilter(typeof(NotFoundFilter<Category>))]
         [HttpGet("[action]/{id}")]
         public async Task<IActionResult> GetSingleCategoryByIdWithProducts(int id)
         {

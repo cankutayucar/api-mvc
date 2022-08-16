@@ -10,3 +10,10 @@ C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\ob
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\refint\Architecture.Caching.dll
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.pdb
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\ref\Architecture.Caching.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Core.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Repository.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Service.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Service.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Core.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\bin\Debug\net6.0\Architecture.Repository.pdb
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.Caching\obj\Debug\net6.0\Architecture.Caching.csproj.CopyComplete

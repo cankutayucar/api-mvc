@@ -70,3 +70,7 @@ C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\De
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\Architecture.Caching.dll
+C:\Users\Cankutay\Desktop\api-mvcProject\ArchitectureApp\Architecture.API\bin\Debug\net6.0\Architecture.Caching.pdb
